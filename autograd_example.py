@@ -16,4 +16,5 @@ w2 = torch.randn(H, D_out, device=device, dtype=dtype)
 learning_rate = 1e-6
 
 for t in range(500):
+    pass
     
