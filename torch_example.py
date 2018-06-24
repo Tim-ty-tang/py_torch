@@ -1,5 +1,5 @@
 import numpy as np
-import torch
+import torch as torch
 
 dtype = torch.float
 device=torch.device("cuda:0")
